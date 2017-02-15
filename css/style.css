@@ -16,6 +16,24 @@ ul.barra {
     overflow: hidden;
     background-color: #333;
 }
+.more {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+    background-color: gray;
+    height: initial;
+}
+div.tweet{
+  padding-top: inherit;
+    float: left;
+}
+img.redes{
+
+  width: 10%;
+  border-radius: 100%;
+}
 div.contacto{
   background-color: whitesmoke;
   margin: 0;
